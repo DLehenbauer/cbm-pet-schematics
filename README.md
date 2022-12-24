@@ -50,6 +50,10 @@ Originals from [Zimmers.net](http://www.zimmers.net/anonftp/pub/cbm/schematics/c
 
 [![](img/8032087-11.png)](https://raw.githubusercontent.com/DLehenbauer/universal-dynamic-pet-schematics/main/img/8032087-11.png)
 
+## PCB Fabrication
+
+[![](img/8032088-1.png)](https://raw.githubusercontent.com/DLehenbauer/universal-dynamic-pet-schematics/main/img/8032088-1.png)
+
 ## PCB Assembly
 
 [![](img/8032090-1.png)](https://raw.githubusercontent.com/DLehenbauer/universal-dynamic-pet-schematics/main/img/8032090-1.png)

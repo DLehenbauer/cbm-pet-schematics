@@ -2,47 +2,47 @@
 
 Schematics for the Universal Dynamic PET mainboard used in 40xx and 80xx models with CRTC.
 
-## CPU & Memory Expansion
+## 1 - CPU & Memory Expansion
 
 [![](img/8032087-01.png)](https://raw.githubusercontent.com/DLehenbauer/cbm-pet-schematics/main/cbm_pet_universal_dynamic_v2/img/8032087-01.png)
 
-## IEEE-488 Interface
+## 2 - IEEE-488 Interface
 
 [![](img/8032087-02.png)](https://raw.githubusercontent.com/DLehenbauer/cbm-pet-schematics/main/cbm_pet_universal_dynamic_v2/img/8032087-02.png)
 
-## Cassette & Keyboard
+## 3 - Cassette & Keyboard
 
 [![](img/8032087-03.png)](https://raw.githubusercontent.com/DLehenbauer/cbm-pet-schematics/main/cbm_pet_universal_dynamic_v2/img/8032087-03.png)
 
-## ROMs
+## 4 - ROMs
 
 [![](img/8032087-04.png)](https://raw.githubusercontent.com/DLehenbauer/cbm-pet-schematics/main/cbm_pet_universal_dynamic_v2/img/8032087-04.png)
 
-## Main RAM
+## 5 - Main RAM
 
 [![](img/8032087-05.png)](https://raw.githubusercontent.com/DLehenbauer/cbm-pet-schematics/main/cbm_pet_universal_dynamic_v2/img/8032087-05.png)
 
-## Master Timing
+## 6 - Master Timing
 
 [![](img/8032087-06.png)](https://raw.githubusercontent.com/DLehenbauer/cbm-pet-schematics/main/cbm_pet_universal_dynamic_v2/img/8032087-06.png)
 
-## Display Address MUX
+## 7 - Display Address MUX
 
 [![](img/8032087-07.png)](https://raw.githubusercontent.com/DLehenbauer/cbm-pet-schematics/main/cbm_pet_universal_dynamic_v2/img/8032087-07.png)
 
-## Dot Gen & Even Display RAMs
+## 8 - Dot Gen & Even Display RAMs
 
 [![](img/8032087-08.png)](https://raw.githubusercontent.com/DLehenbauer/cbm-pet-schematics/main/cbm_pet_universal_dynamic_v2/img/8032087-08.png)
 
-## Odd Display RAMs
+## 9 - Odd Display RAMs
 
 [![](img/8032087-09.png)](https://raw.githubusercontent.com/DLehenbauer/cbm-pet-schematics/main/cbm_pet_universal_dynamic_v2/img/8032087-09.png)
 
-## CRTC and Sync Buffers
+## 10 - CRTC and Sync Buffers
 
 [![](img/8032087-10.png)](https://raw.githubusercontent.com/DLehenbauer/cbm-pet-schematics/main/cbm_pet_universal_dynamic_v2/img/8032087-10.png)
 
-## Voltage Regulator
+## 11 - Voltage Regulator
 
 [![](img/8032087-11.png)](https://raw.githubusercontent.com/DLehenbauer/cbm-pet-schematics/main/cbm_pet_universal_dynamic_v2/img/8032087-11.png)
 
